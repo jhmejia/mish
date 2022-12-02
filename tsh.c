@@ -1,5 +1,5 @@
 /* 
- * tsh - A tiny shell program with job control
+ * Mish - A mini shell program with job control
  * 
  * John Henry Mejia
  * Put your partner's name here
