@@ -1,4 +1,4 @@
-# CSF-shlab
+# Mini-shell (Mish)
 ## John Henry Mejia version 1.0.0
 
 ### Files:
