@@ -1,7 +1,7 @@
 # CSF-shlab
-### John Henry Mejia version 1.0.0
+## John Henry Mejia version 1.0.0
 
-Files:
+### Files:
 
 Makefile	# Compiles your shell program and runs the tests
 
